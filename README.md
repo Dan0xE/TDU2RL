@@ -1,4 +1,4 @@
-# TDU2_Launcher_Raylib
+# TDU2RL - TDU2 Raylib Launcher
 
 A small [TDU2](https://en.wikipedia.org/wiki/Test_Drive_Unlimited_2) Launcher with a [raylib](https://raylib.com) GUI
 
